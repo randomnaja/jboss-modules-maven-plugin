@@ -1,0 +1,2 @@
+jboss-modules-maven-plugin
+==========================
